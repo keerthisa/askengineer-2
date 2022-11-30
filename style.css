@@ -1,0 +1,41 @@
+.nav-bar{
+    border: 1px solid black;
+    background-color: lightblue;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+.card-1{
+    border: 2px;
+    width: 18rem;
+    height: 25rem;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.card-2{
+    width: 40rem;
+    height: 110rem;
+    margin-top: 7%;
+    margin-right: 3rem;
+}
+.ask-enf{
+    color: yellow;
+}
+#p1-img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+
+.gg-card-hearts{
+    position: flex;
+    height: 10px;
+    
+}
+/* #6cb677 */
+
+.p-text{
+    font-weight: lighter;
+    font-size: 20px;
+}
